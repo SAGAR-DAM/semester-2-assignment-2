@@ -60,6 +60,3 @@ float ftrue(float t)
     ztrue= (t+1)*(t+1)-exp(t);
     return(ztrue);
 }
-    ztrue= (t+1)*(t+1)-0.5*exp(t);
-    return(ztrue);
-}
