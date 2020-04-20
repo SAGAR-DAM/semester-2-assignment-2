@@ -1,0 +1,15 @@
+REFERENCES:
+1. https://en.wikipedia.org/wiki/Stiff_equation
+2. online video: https://www.youtube.com/watch?v=JcRsGD2pKlA
+3. https://www.researchgate.net/post/What_are_the_available_Stiff_ODE_Solvers
+4. https://www.gnu.org/software/gsl/doc/html/ode-initval.html
+5. Ascher, U.M., Petzold, L.R., Computer Methods for Ordinary Differential and Differential-Algebraic Equations, SIAM,          Philadelphia, 1998.
+6. https://www.hindawi.com/journals/mpe/2013/989381/
+
+COMMENTS:
+1. For the exact solutions of some of the differential eqns, I have used oline wolfram alpha and sometimes for a rapid checking
+I have even used desmos plotter. 
+2. The Runge Kutta 6th order is very very large proof and it's impossible to derive by hand. Moreover in the original paper of the derivation they have used some sophesticated mathematical techniques like tree theorem. I have just given the result. 
+
+Acknowledgement:
+I thank to my friend Akashdeep for problem no 8. In my machine Mathematica is not working (and wolfram alpha is not able for 2nd order nonlinear eqn), hence I can't solve the 2nd order nonlinear eqns given in problem 8. As other time we generally get a chance to discuss and then do like own way, this time that's not possible. Even it was also not possible to use some other's computer. We all are at different places. However he helped me with the mathematica file to plot the analytic solution. I am greatly thankful to him.
