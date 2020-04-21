@@ -38,7 +38,7 @@ int main()
         }
         else
         {
-            printf("%f\t%f\t%f\t%f\n",t[i],y[i],ftrue(t[i]),v);
+            printf("%f\t%f\t%f\t%f\n",t[i],y[i],ftrue(t[i]),-v);
             
         }
     }
